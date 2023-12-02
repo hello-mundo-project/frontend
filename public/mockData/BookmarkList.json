@@ -1,0 +1,544 @@
+{
+  "bookmarks": [
+    {
+      "id": 1,
+      "progress_way": "온라인",
+      "category": {
+        "id": 1,
+        "name": "프로젝트"
+      },
+      "duration": "3 months",
+      "title": "프론트엔드 찾습니다",
+      "career": {
+        "id": 101,
+        "name": "백엔드"
+      },
+      "skill": ["HTML", "CSS", "JavaScript"],
+      "city": "서울",
+      "district": "강남구",
+      "deadline": "2023-12-15",
+      "created": "2023-11-01 09:00",
+      "headcount": 2,
+      "expected_date": "2024-01-10",
+      "recruit_status": true,
+      "deleted": "",
+      "contact": "contact@webdev.com",
+      "tags": ["Unity", "React", "Python"],
+      "timestamp": "2023-11-23 10:00",
+      "content": "팀 모집합니다."
+    },
+    {
+      "id": 2,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 2,
+        "name": "해커톤"
+      },
+      "duration": "6 months",
+      "title": "디자이너 필요해요",
+      "career": {
+        "id": 102,
+        "name": "풀스택"
+      },
+      "skill": ["Node.js, Java, Ruby"],
+      "city": "부산",
+      "district": "중구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["React", "TypeScript"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 3,
+      "progress_way": "온라인",
+      "category": {
+        "id": 3,
+        "name": "스터디"
+      },
+      "duration": "6 months",
+      "title": "React 스터디 모집합니다",
+      "career": {
+        "id": 103,
+        "name": "프론트엔드"
+      },
+      "skill": ["JavaScript", "SQL"],
+      "city": "경기도",
+      "district": "고양시",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 5,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Java", "C"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "프론트엔드 스터디를 함께해요"
+    },
+    {
+      "id": 4,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 4,
+        "name": "프로젝트"
+      },
+      "duration": "6 months",
+      "title": "앱 만들기 프로젝트 함께해요",
+      "career": {
+        "id": 104,
+        "name": "백엔드"
+      },
+      "skill": ["TypeScript", "Java Spring"],
+      "city": "경기도",
+      "district": "수원시",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["TypeScript", "Unity"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집합니다"
+    },
+    {
+      "id": 5,
+      "progress_way": "온라인",
+      "category": {
+        "id": 5,
+        "name": "스터디"
+      },
+      "duration": "6 months",
+      "title": "스터디원 필요해요",
+      "career": {
+        "id": 105,
+        "name": "풀스택"
+      },
+      "skill": ["Node.js", "C++"],
+      "city": "경기도",
+      "district": "일산",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Ruby"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 6,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 6,
+        "name": "해커톤"
+      },
+      "duration": "8 months",
+      "title": "해커톤 팀원 필요해요",
+      "career": {
+        "id": 106,
+        "name": "프론트엔드"
+      },
+      "skill": ["JavaScript", "React"],
+      "city": "서울",
+      "district": "도봉구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Python"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 7,
+      "progress_way": "온라인",
+      "category": {
+        "id": 7,
+        "name": "프로젝트"
+      },
+      "duration": "6 months",
+      "title": "프론트엔드 필요해요",
+      "career": {
+        "id": 107,
+        "name": "풀스택"
+      },
+      "skill": ["React"],
+      "city": "서울",
+      "district": "서초구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Java"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 8,
+      "progress_way": "온라인",
+      "category": {
+        "id": 8,
+        "name": "프로젝트"
+      },
+      "duration": "12 months",
+      "title": "해커톤 필요해요",
+      "career": {
+        "id": 108,
+        "name": "백엔드"
+      },
+      "skill": ["Node.js", "Next.js"],
+      "city": "서울",
+      "district": "양천구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Go"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 9,
+      "progress_way": "온라인",
+      "category": {
+        "id": 9,
+        "name": "스터디"
+      },
+      "duration": "3 months",
+      "title": "프로젝트 함께 할 사람!",
+      "career": {
+        "id": 109,
+        "name": "프론트엔드"
+      },
+      "skill": ["React"],
+      "city": "서울",
+      "district": "종로구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["TypeScript"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 10,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 10,
+        "name": "스터디"
+      },
+      "duration": "6 months",
+      "title": "스터디원 모집합니다.",
+      "career": {
+        "id": 110,
+        "name": "프론트엔드"
+      },
+      "skill": ["Python"],
+      "city": "서울",
+      "district": "금천구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Java"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 11,
+      "progress_way": "온라인",
+      "category": {
+        "id": 11,
+        "name": "프로젝트"
+      },
+      "duration": "6 months",
+      "title": "멤버 필요해요",
+      "career": {
+        "id": 111,
+        "name": "백엔드"
+      },
+      "skill": ["Java"],
+      "city": "서울",
+      "district": "용산구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["React"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 12,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 12,
+        "name": "스터디"
+      },
+      "duration": "6 months",
+      "title": "자바스크립트 딥다이브 회독",
+      "career": {
+        "id": 112,
+        "name": "풀스택"
+      },
+      "skill": ["JavaScript"],
+      "city": "서울",
+      "district": "성동구",
+      "deadline": "2023-12-20",
+      "created": "2023-11-03 11:30",
+      "headcount": 1,
+      "expected_date": "2024-02-01",
+      "recruit_status": false,
+      "deleted": "2023-11-22",
+      "contact": "design@graphics.com",
+      "tags": ["Python"],
+      "timestamp": "2023-11-23 11:30",
+      "content": "모집중 고고"
+    },
+    {
+      "id": 13,
+      "progress_way": "온라인",
+      "category": {
+        "id": 13,
+        "name": "프로젝트"
+      },
+      "duration": "4 months",
+      "title": "리액트 스터디 구합니다",
+      "career": {
+        "id": 113,
+        "name": "프론트엔드"
+      },
+      "skill": ["React", "Python", "SQL"],
+      "city": "대구",
+      "district": "중구",
+      "deadline": "2023-12-30",
+      "created": "2023-11-10 15:00",
+      "headcount": 3,
+      "expected_date": "2024-03-15",
+      "recruit_status": true,
+      "deleted": "",
+      "contact": "info@dataanalysis.com",
+      "tags": ["C", "C+", "Java"],
+      "timestamp": "2023-11-23 15:00",
+      "content": "모집중!"
+    },
+    {
+      "id": 14,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 14,
+        "name": "프로젝트"
+      },
+      "duration": "2 months",
+      "title": "해커톤 나갈 사람 찾습니다.",
+      "career": {
+        "id": 114,
+        "name": "백엔드"
+      },
+      "skill": ["Next.js", "TypeScript"],
+      "city": "인천",
+      "district": "연수구",
+      "deadline": "2023-12-10",
+      "created": "2023-11-05 16:45",
+      "headcount": 1,
+      "expected_date": "2024-01-05",
+      "recruit_status": false,
+      "deleted": "2023-11-20",
+      "contact": "marketing@digital.com",
+      "tags": ["TypeScript", "React", "Go"],
+      "timestamp": "2023-11-23 16:45",
+      "content": "늦으면 안됨!"
+    },
+    {
+      "id": 15,
+      "progress_way": "온라인",
+      "category": {
+        "id": 15,
+        "name": "해커톤"
+      },
+      "duration": "1 months",
+      "title": "리액트 스터디 구합니다",
+      "career": {
+        "id": 115,
+        "name": "풀스택"
+      },
+      "skill": ["React", "Python", "Java"],
+      "city": "대구",
+      "district": "중구",
+      "deadline": "2023-12-30",
+      "created": "2023-11-10 15:00",
+      "headcount": 3,
+      "expected_date": "2024-03-15",
+      "recruit_status": true,
+      "deleted": "",
+      "contact": "info@dataanalysis.com",
+      "tags": ["Ruby", "Node.js"],
+      "timestamp": "2023-11-23 15:00",
+      "content": "모집중!"
+    },
+    {
+      "id": 16,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 16,
+        "name": "해커톤"
+      },
+      "duration": "2 months",
+      "title": "해커톤 나갈 사람 찾습니다.",
+      "career": {
+        "id": 116,
+        "name": "백엔드"
+      },
+      "skill": ["Next.js", "TypeScript"],
+      "city": "서울",
+      "district": "동작구",
+      "deadline": "2023-12-10",
+      "created": "2023-11-05 16:45",
+      "headcount": 1,
+      "expected_date": "2024-01-05",
+      "recruit_status": false,
+      "deleted": "2023-11-20",
+      "contact": "marketing@digital.com",
+      "tags": ["React"],
+      "timestamp": "2023-11-23 16:45",
+      "content": "늦으면 안됨!"
+    },
+    {
+      "id": 17,
+      "progress_way": "온라인",
+      "category": {
+        "id": 17,
+        "name": "프로젝트"
+      },
+      "duration": "4 months",
+      "title": "리액트 스터디 구합니다",
+      "career": {
+        "id": 117,
+        "name": "풀스택"
+      },
+      "skill": ["React", "Python", "SQL"],
+      "city": "대구",
+      "district": "중구",
+      "deadline": "2023-12-30",
+      "created": "2023-11-10 15:00",
+      "headcount": 3,
+      "expected_date": "2024-03-15",
+      "recruit_status": true,
+      "deleted": "",
+      "contact": "info@dataanalysis.com",
+      "tags": ["React", "Unity", "TypeScript"],
+      "timestamp": "2023-11-23 15:00",
+      "content": "모집중!"
+    },
+    {
+      "id": 18,
+      "progress_way": "온라인",
+      "category": {
+        "id": 18,
+        "name": "스터디"
+      },
+      "duration": "2 months",
+      "title": "줌 스터디 할 사람 찾습니다.",
+      "career": {
+        "id": 118,
+        "name": "프론트엔드"
+      },
+      "skill": ["Next.js", "TypeScript"],
+      "city": "경기",
+      "district": "고양시",
+      "deadline": "2023-12-10",
+      "created": "2023-11-05 16:45",
+      "headcount": 1,
+      "expected_date": "2024-01-05",
+      "recruit_status": false,
+      "deleted": "2023-11-20",
+      "contact": "marketing@digital.com",
+      "tags": ["Java"],
+      "timestamp": "2023-11-23 16:45",
+      "content": "늦으면 안됨!"
+    },
+    {
+      "id": 19,
+      "progress_way": "오프라인",
+      "category": {
+        "id": 19,
+        "name": "해커톤"
+      },
+      "duration": "2 months",
+      "title": "해커톤 나갈사람 찾습니다.",
+      "career": {
+        "id": 119,
+        "name": "백엔드"
+      },
+      "skill": ["Next.js", "TypeScript"],
+      "city": "경기",
+      "district": "고양시",
+      "deadline": "2023-12-10",
+      "created": "2023-11-05 16:45",
+      "headcount": 1,
+      "expected_date": "2024-01-05",
+      "recruit_status": false,
+      "deleted": "2023-11-20",
+      "contact": "marketing@digital.com",
+      "tags": ["Java"],
+      "timestamp": "2023-11-23 16:45",
+      "content": "늦으면 안됨!"
+    },
+    {
+      "id": 20,
+      "progress_way": "온라인",
+      "category": {
+        "id": 20,
+        "name": "스터디"
+      },
+      "duration": "2 months",
+      "title": "스터디 할 사람 찾습니다.",
+      "career": {
+        "id": 120,
+        "name": "풀스택"
+      },
+      "skill": ["Next.js", "TypeScript"],
+      "city": "경기",
+      "district": "고양시",
+      "deadline": "2023-12-10",
+      "created": "2023-11-05 16:45",
+      "headcount": 1,
+      "expected_date": "2024-01-05",
+      "recruit_status": false,
+      "deleted": "2023-11-20",
+      "contact": "marketing@digital.com",
+      "tags": ["Java"],
+      "timestamp": "2023-11-23 16:45",
+      "content": "늦으면 안됨!"
+    }
+  ]
+}
